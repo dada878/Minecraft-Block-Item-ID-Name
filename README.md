@@ -1,2 +1,7 @@
-# Minecraft-Block-Item-ID-Name
-自動抓取並生成包含ID的物品和方塊名稱 Python爬蟲
+# 自動抓取並生成包含ID的物品和方塊名稱 Python爬蟲
+
+不會再忘記方塊或物品ID而浪費時間去Google了！
+
+# 版權
+
+轉載相關檔案或材質包請標註原作者
